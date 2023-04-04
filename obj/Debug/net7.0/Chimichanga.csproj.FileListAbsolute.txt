@@ -1,0 +1,15 @@
+C:\Users\morda\source\repos\Chimichanga\Chimichanga\bin\Debug\net7.0\Chimichanga.exe
+C:\Users\morda\source\repos\Chimichanga\Chimichanga\bin\Debug\net7.0\Chimichanga.deps.json
+C:\Users\morda\source\repos\Chimichanga\Chimichanga\bin\Debug\net7.0\Chimichanga.runtimeconfig.json
+C:\Users\morda\source\repos\Chimichanga\Chimichanga\bin\Debug\net7.0\Chimichanga.dll
+C:\Users\morda\source\repos\Chimichanga\Chimichanga\bin\Debug\net7.0\Chimichanga.pdb
+C:\Users\morda\source\repos\Chimichanga\Chimichanga\obj\Debug\net7.0\Chimichanga.csproj.AssemblyReference.cache
+C:\Users\morda\source\repos\Chimichanga\Chimichanga\obj\Debug\net7.0\Chimichanga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morda\source\repos\Chimichanga\Chimichanga\obj\Debug\net7.0\Chimichanga.AssemblyInfoInputs.cache
+C:\Users\morda\source\repos\Chimichanga\Chimichanga\obj\Debug\net7.0\Chimichanga.AssemblyInfo.cs
+C:\Users\morda\source\repos\Chimichanga\Chimichanga\obj\Debug\net7.0\Chimichanga.csproj.CoreCompileInputs.cache
+C:\Users\morda\source\repos\Chimichanga\Chimichanga\obj\Debug\net7.0\Chimichanga.dll
+C:\Users\morda\source\repos\Chimichanga\Chimichanga\obj\Debug\net7.0\refint\Chimichanga.dll
+C:\Users\morda\source\repos\Chimichanga\Chimichanga\obj\Debug\net7.0\Chimichanga.pdb
+C:\Users\morda\source\repos\Chimichanga\Chimichanga\obj\Debug\net7.0\Chimichanga.genruntimeconfig.cache
+C:\Users\morda\source\repos\Chimichanga\Chimichanga\obj\Debug\net7.0\ref\Chimichanga.dll
